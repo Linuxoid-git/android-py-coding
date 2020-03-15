@@ -69,7 +69,7 @@ Extra info:
   
   To install nano run: 
   
-    pkg install nano
+    sh nanoinst.sh
     
   To edit file with nano run:
   
