@@ -60,8 +60,8 @@ Step-By-Step instruction:
     For testing Python 3 run this command:
     
       python3 pytest.py
-    
-    Done!
+      
+    If output is "Hello, world!" Python is working correctly
     
 Extra info:
 
