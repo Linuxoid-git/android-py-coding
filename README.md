@@ -114,6 +114,10 @@ Extra info:
     For moving files or directories run:
     
       mv <from> <to>
+
+  Note: If you want to install all packages at once use:
+  
+    sh instAllPkg.sh
     
 Good luck!
     
